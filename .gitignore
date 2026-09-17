@@ -1,0 +1,19 @@
+# Operating System & Cache
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary / Audit Tools
+generate_gallery.py
+image_gallery.html
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
